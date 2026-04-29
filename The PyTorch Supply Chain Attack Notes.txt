@@ -1,0 +1,7 @@
+The PyTorch Supply Chain Attack (December 2022)
+
+Timeline: Dec. 25-30, 2022
+Attacking Method: Attackers published a malicious torchtriton package to the public Python Package Index (PyPI) repository with a higher version number than the one in the official PyTorch repository.
+Affected Users: The only users affected by the attack were ones who installed the NIGHTLY version of PyTorch on Linux via pip. Anyone who used the Stable releases were unaffected. 
+Discovered: The incident was reported after the PyTorch team learned about a malicious dependency of the same name had been uploaded to the Public Python Package Index. An alarm was raised to its suspicious behavior.
+What did it steal?: Reports came that the package was designed to harvest and exfiltrate a wide range of sensitive information and private files. Your System & Environment Information, Sensitve Config Files & User Data was potentially compromised.
