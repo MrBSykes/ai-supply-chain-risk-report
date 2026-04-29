@@ -1,4 +1,4 @@
-Readme ai supply chain · MDCopyAI Model Supply Chain Risk Report
+AI Model Supply Chain Risk Report
 Domain: AI Security | GRC | Risk Assessment | Third-Party Risk Management
 Deliverable Type: Executive Risk Report (CISO Audience)
 Models Assessed: google/gemma-2-2b | TheBloke/Mistral-7B-Instruct-v0.2-GGUF | tiiuae/falcon-7b
