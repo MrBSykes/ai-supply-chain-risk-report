@@ -1,0 +1,6 @@
+The Hugging Face Malicous Models Incident (2024)
+
+Model Used to Hide Malicious Code?: 
+What they do when loaded?: The models when loaded, could execute arbitrary code on a victim's machine the moment the model is loaded. The models were hosted on PUBLIC repositores and were used for remote code execution and supply chain attacks.
+How Many Models Found: Over 100 Malicious Code-Execution models were found on HuggingFace's platform.
+Response: Hugging Face and Protect AI partnered in October of the same year to enhance machine learning model security thorugh Guardian's scanning technology. They launched 4 new threat detection mdoules. As of April 1, 2025 Protect AI has scanned 4.47 million unique model versions and in 1.41 million repositories. 352,000 were reported as unsafe or suspicious across over 50,000 models.
